@@ -5,4 +5,5 @@ silahkan gunakan format berikut:<br>
 **\*nama,[github/website](alamat url).**
 berikut adalah daftar volunter yang diterima:
 * aditya Pratama,[oo.or.id](https://oo.or.id).
+* godit, [xxxxxxxx](xxxxxxxxx).
 
